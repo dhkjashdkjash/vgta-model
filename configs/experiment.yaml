@@ -1,0 +1,10 @@
+seed: 42
+source_count: 18
+evolution_count: 4
+target_count: 5
+steps_per_day: 6
+temporal_mode: continuous_multiday
+vim_epochs: 100
+gta_epochs: 80
+gkoa_population: 5
+gkoa_iterations: 10
